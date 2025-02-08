@@ -6,7 +6,7 @@ Submitted by: **Haida Makouangou**
 
 **Wordle Game** is an app that allows users to play a customizable version of the popular word-guessing game. Users can change the number of letters per row, set the number of rows for guesses, select a theme for the goal word, and toggle "alien wordle" mode to change the goal word after each guess.
 
-Time spent: **144** hours spent in total
+Time spent: **48** hours spent in total
 
 ## Required Features
 
