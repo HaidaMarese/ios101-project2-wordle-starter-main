@@ -27,18 +27,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
-
 [Guide](https://www.loom.com/share/5f532c90799e4e2b82738133655e5863?sid=c1b0c5d2-43f6-4026-82f1-a4599eb2736a).
 
 ## Notes
 
-Describe any challenges encountered while building the app:
+Challenges encountered while building the app:
 - Figuring out how to reset the board with the current settings while retaining the goal word was a bit tricky. I had to ensure that all settings could be applied again without affecting the goal word unless explicitly changed by the user.
 
 ## License
 
-    Copyright [2025] [Haida Makouangou]
+    Copyright 2025 Haida Makouangou
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
